@@ -1,5 +1,1 @@
 Este fue un proyecto de mi universidad, es una biblioteca virtual que guarda libros, busca libros guardados o cambia estados de libros. Estos se guardan en archivos txt en tu propio pc. Se que se podria conectar con alguna base de datos pero aún no nos enseñan a manipularlas. Es posible cambiar un par de cosas como conectar los libros a alguna DB (que como anteriormente dije aún no se utilizarlas), Añadir algun loggin, o que las funciones muestren mensajes, pero me bajaron puntos en la evaluacion anterior por tener interaccion con el usuario, asique todos los print estan fuera de las funciones.# biblioteca-virtual-python-basico
-# biblioteca-virtual-python-basico
-# biblioteca-virtual-python-basico
-# biblioteca-virtual-python-basico
-# biblioteca-virtual-python-basico
